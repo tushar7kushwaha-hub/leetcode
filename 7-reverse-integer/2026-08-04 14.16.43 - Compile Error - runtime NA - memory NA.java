@@ -1,0 +1,14 @@
+class Solution {
+    public int reverse(int x) {
+       long rev = 0;
+       while(x!=0){
+        long tmp = x%10;
+        rev = (rev*10)+tmp;
+        x /= 10;
+       }
+       if(rev >= -2147483648 || rev < 2147483647){
+        return rev;
+       }
+       return 0;
+    }
+}
