@@ -4,10 +4,7 @@ class Solution {
         int left = 0;
         int containsWater = 0;
         while(left<right){
-            int len = right-left;
-            int multiplier = Math.min(height[left], height[right]);
-            int current_water = multiplier*len;
-            containsWater = Math.max(containsWater, current_water);
+            containsWater = Math.max(containsWater,(Math.min(height[left],height[right])*(right-left)));
             if(height[left] > height[right]){
                 right--;
             }else{
