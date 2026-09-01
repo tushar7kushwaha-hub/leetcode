@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
