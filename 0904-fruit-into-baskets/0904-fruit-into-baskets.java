@@ -8,10 +8,10 @@ class Solution {
         int firstNum = fruits[0];
         int secondN = 0; int secondNIdx = 0;
         for(int i=0;i<fruits.length;i++){
+            count++;
             if(fruits[i]!=firstNum){
                 secondN = fruits[i];
                 secondNIdx = i;
-                count = Math.max(count, i-left+1);
                 right = i+1;
                 break;
             }
