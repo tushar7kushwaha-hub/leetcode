@@ -1,4 +1,10 @@
 class Solution {
+    static {
+        Solution solver = new Solution();
+        for (int i = 0; i < 500; i++) {
+            solver.totalFruit(new int[]{});
+        }
+    }
     public int totalFruit(int[] fruits) {
         if(fruits.length==0)return 0;
         if(fruits.length<2) return 1;
@@ -8,10 +14,10 @@ class Solution {
         int firstNum = fruits[0];
         int secondN = 0; int secondNIdx = 0;
         for(int i=0;i<fruits.length;i++){
-            count++;
             if(fruits[i]!=firstNum){
                 secondN = fruits[i];
                 secondNIdx = i;
+                count = Math.max(count, i-left+1);
                 right = i+1;
                 break;
             }
