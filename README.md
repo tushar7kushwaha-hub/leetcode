@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
