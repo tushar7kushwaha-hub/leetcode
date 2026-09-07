@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Quicksort
 |  |
