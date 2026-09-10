@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0213-house-robber-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
