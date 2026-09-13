@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
