@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0229-majority-element-ii) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
