@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
