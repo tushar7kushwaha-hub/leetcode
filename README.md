@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
