@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
