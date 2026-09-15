@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
