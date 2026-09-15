@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 | Problem Name | Difficulty |
