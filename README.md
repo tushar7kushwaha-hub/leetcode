@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
