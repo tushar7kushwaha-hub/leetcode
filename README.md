@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
