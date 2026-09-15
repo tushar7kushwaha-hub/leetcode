@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
