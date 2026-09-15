@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 | Problem Name | Difficulty |
