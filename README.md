@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
+| [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
+| [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
