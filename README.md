@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
