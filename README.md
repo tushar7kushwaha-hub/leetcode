@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
