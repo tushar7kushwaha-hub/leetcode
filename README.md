@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
