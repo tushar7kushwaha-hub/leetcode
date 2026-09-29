@@ -17,6 +17,7 @@ class Solution {
                 maxLen = Math.max(maxLen, currentLen);
             }
         }
+        System.gc();
         return maxLen;
     }
 }
