@@ -1,13 +1,5 @@
 import java.util.*;
 class Solution {
-    public static int runtest()
-    {
-        Solution solver = new Solution();
-        for(int i=0;i<500;i++)
-            solver.longestConsecutive(new int[]{});
-
-        return 0;
-    }
     public int longestConsecutive(int[] nums) {
         Set<Integer> set = new HashSet<>();
         int maxLen = 0;
