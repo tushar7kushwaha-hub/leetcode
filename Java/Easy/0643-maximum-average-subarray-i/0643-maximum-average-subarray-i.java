@@ -14,6 +14,7 @@ class Solution {
             sum+=nums[right];
             maxAvg = Math.max(maxAvg, (sum/k));
         }
+        System.gc();
         return maxAvg;
     }
 }
