@@ -1,10 +1,8 @@
 class Solution {
     public int[] decrypt(int[] code, int k) {
         int[] ans = new int[code.length];
-        if(k == 0){
-            return ans;
-
-        }else if(k>0){
+        if(k == 0){return ans;}
+        else if(k>0){
             for(int i=0;i<code.length;i++){
                 int left = 1;
                 int sum = 0;
@@ -37,5 +35,6 @@ class Solution {
             }
             return ans;
         }
+        
     }
 }
