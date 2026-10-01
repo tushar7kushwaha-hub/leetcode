@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0198-house-robber) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
