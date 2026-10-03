@@ -13,6 +13,7 @@ class Solution {
                 return new int[] {left+1, right+1};
             }
         }
+        System.gc();
         return new int[] {0,0};
     }
 }
