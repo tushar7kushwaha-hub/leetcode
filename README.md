@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0260-single-number-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
