@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 ## Bracket Sequences
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
