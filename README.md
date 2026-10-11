@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
