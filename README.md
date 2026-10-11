@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
