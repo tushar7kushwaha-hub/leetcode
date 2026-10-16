@@ -22,7 +22,6 @@ class Solution {
             l++;
             r--;
         }
-        String str = new String(ch);
-        return str;
+        return new String(ch);
     }
 }
