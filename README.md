@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3903-smallest-stable-index-i) |
