@@ -4,17 +4,12 @@ class Solution {
         int sum = 0;
         for(int n=0;n<nums.length;n++){
             sum+=nums[n];
-            pre[n] = sum;
         }       
-        sum = 0; 
-        for(int n=nums.length-1;n>=0;n--){
-            sum+=nums[n];
-            pre[n] -= sum;
-        }
+        int leftsum = 0;
         for(int n=0;n<nums.length;n++){
-            if(pre[n] == 0){
-                return n;
-            }
+            int rightsum = sum - nums[n] - leftsum;
+            if(rightsum == leftsum)return n;
+            leftsum+=nums[n];
         }
         return -1;
     }
