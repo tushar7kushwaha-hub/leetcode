@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3904-smallest-stable-index-ii) |
