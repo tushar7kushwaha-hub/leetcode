@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
