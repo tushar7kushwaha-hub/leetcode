@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0229-majority-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
