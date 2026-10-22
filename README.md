@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0198-house-robber) |
