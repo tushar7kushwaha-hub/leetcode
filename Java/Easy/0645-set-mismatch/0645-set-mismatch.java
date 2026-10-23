@@ -11,7 +11,7 @@ class Solution {
             if(arr[i]==0){
                 mis = i+1;
             }
-            if(arr[i] == 2){
+            else if(arr[i] == 2){
                 dup = i+1;
             }
         }
