@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0645-set-mismatch/) | Easy |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3904-smallest-stable-index-ii) |
