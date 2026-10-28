@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0989-add-to-array-form-of-integer/) | Easy |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
