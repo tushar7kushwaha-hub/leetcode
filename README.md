@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0376-wiggle-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
