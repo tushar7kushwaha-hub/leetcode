@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0134-gas-station/) | Medium |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0213-house-robber-ii) |
