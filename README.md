@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0705-design-hashset/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0645-set-mismatch/) | Easy |
+| [0705-design-hashset](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0705-design-hashset/) | Easy |
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -490,4 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
