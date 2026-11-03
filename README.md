@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
