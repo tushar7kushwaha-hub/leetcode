@@ -1,19 +1,18 @@
-import java.util.*;
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int slow = 1;
-        int fast = 1;
-        int count = 1;
-        for(;fast<nums.length;fast++){
-            if(nums[fast]==nums[fast-1]){
-                count++;
+        int l=1;
+        int r=1;
+        int c=1;
+        for(;r<nums.length;r++){
+            if(nums[r]==nums[r-1]){
+                c++;
             }else{
-                count=1;
+                c=1;
             }
-            if(count<=2){
-                nums[slow++] = nums[fast];
+            if(c<=2){
+                nums[l++]=nums[r];
             }
         }
-        return slow;
+        return l;
     }
 }
