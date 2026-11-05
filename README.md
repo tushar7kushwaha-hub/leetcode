@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Quicksort
