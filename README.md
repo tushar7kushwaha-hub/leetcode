@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0525-contiguous-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0525-contiguous-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0645-set-mismatch/) | Easy |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
