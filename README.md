@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
