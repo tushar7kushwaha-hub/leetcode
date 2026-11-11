@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0376-wiggle-subsequence/) | Medium |
+| [0414-third-maximum-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
