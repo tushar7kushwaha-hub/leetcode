@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tushar7kushwaha-hub/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [0948-bag-of-tokens](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0989-add-to-array-form-of-integer/) | Easy |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/tushar7kushwaha-hub/leetcode/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
