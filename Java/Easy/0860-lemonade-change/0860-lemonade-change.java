@@ -1,23 +1,24 @@
 import java.util.*;
 class Solution {
-    public boolean lemonadeChange(int[] bills) {
-        Map<Integer, Integer> map = new HashMap<>();
+    public boolean lemonadeChange(int[] bills){
+        int ten = 0;
+        int five =0;
         for(int bill : bills){
             if(bill == 5){
-                map.put(bill, map.getOrDefault(bill,0)+1);
+               five++;
             }else if(bill == 10){
-                if(map.containsKey(5) && map.get(5)>0){
-                    map.put(5, map.get(5)-1);
-                    map.put(bill, map.getOrDefault(bill,0)+1);
+                if(five>0){
+                    five--;
+                    ten++;
                 }else{
                     return false;
                 }
             }else{
-                if(map.containsKey(10) && map.get(10)>0 && map.containsKey(5) && map.get(5)>0){
-                    map.put(10, map.get(10)-1);
-                    map.put(5, map.get(5)-1);
-                }else if(map.containsKey(5) && map.get(5)>=3){
-                    map.put(5, map.get(5)-3);
+                if(ten>0 && five>0){
+                    five--;
+                    ten--;
+                }else if(five>=3){
+                    five=five-3;
                 }else{
                     return false;
                 }
