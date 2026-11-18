@@ -8,8 +8,8 @@ class Solution {
             }else{
                 farthest = Math.max(farthest, i+nums[i]);
             }
-            if(farthest>=nums.length-1)return true;  
-            i++;          
+            if(farthest>=nums.length-1) return true;
+            i++;
         }
         return true;
     }
