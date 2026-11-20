@@ -17,7 +17,7 @@ class Solution {
             } else {
                 map.put(preSum, i);
             }
-        }   
-        return len;
+        }
+        return len;   
     }
 }                     
